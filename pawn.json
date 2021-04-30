@@ -1,0 +1,10 @@
+{
+	"user": "Muqsith123",
+	"repo": "SAMP",
+	"entry": "gamemodes\\Basic.pwn",
+	"output": "gamemodes\\Basic.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	],
+	"local": true
+}
